@@ -1,3 +1,4 @@
+## .ENV
 ``` MONGODB_URI = "mongodb+srv://useradmin:useradmin123@alexservice.vce4tks.mongodb.net/?retryWrites=true&w=majority&appName=alexservice" ```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
